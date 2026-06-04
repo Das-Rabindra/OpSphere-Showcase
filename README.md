@@ -10,37 +10,37 @@ It is intentionally limited. The full source code, deployment internals, credent
 
 The Home view summarizes cluster health, workload status, live activity, resource usage, and operational navigation in one place.
 
-![OpSphere Home Overview](screenshots/01-home/home-overview.png)
+![OpSphere Home Overview](screenshots/home-overview.png)
 
 ### Kubernetes Workloads
 
 The Kubernetes workload view focuses on deployment health, replica status, namespace context, and day-to-day workload operations.
 
-![Kubernetes Deployments](screenshots/03-workloads/kubernetes-deployments.png)
+![Kubernetes Deployments](screenshots/kubernetes-deployments.png)
 
 ### Docker Operations
 
 Docker views provide host-level container visibility, runtime status, and operational controls from the same console.
 
-![Docker Containers](screenshots/06-docker/docker-containers.png)
+![Docker Containers](screenshots/docker-containers.png)
 
 ### Observability Metrics
 
 The metrics workspace gives teams a focused view of cluster utilization, node breakdown, pod health, namespace usage, and high-consumption workloads.
 
-![Observability Metrics](screenshots/07-observe/observability-metrics.png)
+![Observability Metrics](screenshots/observability-metrics.png)
 
 ### Topology
 
 The topology view helps visualize relationships between Kubernetes resources and service paths.
 
-![Topology](screenshots/07-observe/topology.png)
+![Topology](screenshots/topology.png)
 
 ### FinOps Overview
 
 FinOps views help summarize cost, savings opportunities, allocation patterns, and infrastructure efficiency.
 
-![FinOps Overview](screenshots/10-finops/finops-overview.png)
+![FinOps Overview](screenshots/finops-overview.png)
 
 ## What Is Shown
 
